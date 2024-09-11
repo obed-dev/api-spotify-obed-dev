@@ -16,7 +16,7 @@ Welcome to the **Spotify API Web Application**! This project allows users to int
 ## 🛠️ Technologies Used
 
 - **React** ⚛️: Frontend framework for building the UI.
-- **Tailwind CSS** 🎨: For responsive and beautiful design.
+- **CSS** 🎨: For responsive and beautiful design.
 - **Spotify API** 🎵: Provides access to millions of songs, albums, and artists.
 - **Netlify** 🚀: Hosting platform.
 
